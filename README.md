@@ -1,4 +1,4 @@
-# Nigeria-Unemployment-Situation-Analysis-2020-Data-Spark-Project-
+# Nigeria-Unemployment-Situation-Analysis-2020-
 
 **Unemployment Rate Analysis in Nigeria - Power BI Project**
 
