@@ -4,7 +4,7 @@
 
 This repository contains a comprehensive analysis of the unemployment rate in Nigeria, utilizing data sourced from the National Bureau of Statistics (Labour Force Statistics Quarter for 2020). The project, undertaken by the Data Spark Team during the Tech4Daev bootcamp, employed Excel and Power BI for data processing and visualization, respectively.
 
-Key Features:
+**Key Features:**
 
 Data Source: National Bureau of Statistics (Labour Force Statistics Quarter for 2020)
 
@@ -16,7 +16,7 @@ Insights Derived: The project delved into the key factors influencing the unempl
 
 Skills Showcased: Capitalizing on ETL (Extract, Transform, Load) and visualization skill sets, the project highlights the team's proficiency in deriving insights from complex datasets and presenting them in a visually compelling manner.
 
-Project Highlights:
+**Project Highlights:**
 
 Detailed analysis of unemployment trends and patterns in Nigeria.
 
